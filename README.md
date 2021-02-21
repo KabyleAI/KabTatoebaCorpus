@@ -1,4 +1,7 @@
 # KabTatoebaCorpus
-- Direct export from Tatoeba of Kabyle monolingual (~500k) and eng-kab bilingual sentences ( ~30k)
+Tatoeba Data export as of February 01st, 2021
 
-- Indirect (manual) export from Tatoeba of fra-kab bilingual sentences (~50k) 
+- Tatoeba Kabyle monolingual sentences (~500k)
+- Tatoeba English-Kabyle bilingual sentences ( ~30k)
+- Tatoeba French-Kabyle bilingual sentences ( ~59k)
+
